@@ -1,7 +1,5 @@
 {
+  "ShaderMotionBot": "Vesturo",
   "ShaderMotion0TrackerName": "Vesturo",
-  "ShaderMotion0PuppetId": "1",
-  
-  "ShaderMotion1TrackerName": "",
-  "ShaderMotion1PuppetId": "0"
+  "ShaderMotion0PuppetId": "1"
 }
